@@ -1,0 +1,1 @@
+web: gunicorn inventoryLite.wsgi --log-file -
